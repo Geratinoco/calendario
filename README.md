@@ -1,2 +1,3 @@
 # calendario
 calendario
+git init
